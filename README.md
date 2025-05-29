@@ -1,14 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Marwa Nasser Mohamed Abdelmatloub</h1>
+<h1 align="center">Hi there 👋, I'm Marwa Nasser</h1>
 <h3 align="center">💻 Full Stack Developer | Lifelong Learner | Passionate about building web apps that matter</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Currently undergoing intensive training at **ITI - Open Source Track (Oct 2024 - June 2025)**
-- 🚀 Passionate about building **responsive**, **dynamic**, and **user-centric** web applications
-- 🧠 Always seeking growth through **real-world projects**, **new tech**, and **continuous learning**
+- 🎓 Full Stack Developer in training at **ITI – Open Source Track (Oct 2024 – June 2025)**
+- 🧠 Self-taught learner with a Bachelor's degree in **Islamic Archaeology**
+- 💡 Passionate about building dynamic, responsive, and user-focused applications
 - 📍 Based in **Minya, Egypt**
+- 🚀 Always exploring modern tech through real-world projects and collaboration
 
 ---
 
@@ -46,16 +47,19 @@
 
 ---
 
-### 🧪 Projects I've Worked On (During ITI Training)
+### 🎓 Education
 
-- 📘 **Book Share** – Laravel & React
-- 🎓 **E-ducational Platform** – JavaScript & Firebase
-- 🛍️ **E-commerce Platform** – Angular & Node.js
-- 🎬 **Movie Website** – Vue.js & JSON Server
-- ☕ **Cafeteria System** – PHP Full Stack
-- 🏥 **Medical Project** – Django & React
-- 💼 **Job Board** – Laravel & Vue.js
-- 🌐 **Custom Portfolio** – Angular
+- 🎓 **ITI – Open Source Track**, Full Stack Development  
+  *Professional Training Program* (Oct 2024 – June 2025)
+- 🏛️ **Bachelor of Arts in Islamic Archaeology**, Minya University  
+  *(Sept 2019 – July 2023)*
+
+---
+
+### 📂 Projects
+
+🔍 Explore my hands-on projects from the ITI training on my GitHub profile.  
+I love turning real-world problems into elegant full-stack solutions — check out my [pinned repositories](https://github.com/marwa-nasser-mohamed-abdelmatloub)!
 
 ---
 
@@ -70,7 +74,7 @@
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Get in Touch
 
 - 📧 **Email:** marwa.nasser.mohamed.abdelmatloub@gmail.com  
 - 🔗 **LinkedIn:** [marwa-nasser-mohamed-abdelmatloub](https://linkedin.com/in/marwa-nasser-mohamed-abdelmatloub)  
@@ -79,13 +83,12 @@
 
 ---
 
-### 🔍 Fun Facts About Me
+### 💬 Fun Facts
 
-- ☕ Coffee keeps my code running.
-- 👩‍🔧 Debugging UI is my favorite puzzle.
-- 📚 I come from an **Islamic Archaeology** background — proof that passion can lead anywhere.
-- ✨ I thrive on learning, building, and sharing!
+- ☕ I drink tee like it's part of my codebase
+- 🧩 Debugging UI challenges is my favorite brain workout
+- 🌍 Transitioned from archaeology to full-stack development — proving that passion knows no limits
 
 ---
 
-> 💬 _"Tech is not just my career, it’s my creative outlet."_ — Marwa
+> _"I build, I debug, I grow."_ — Marwa 💙
