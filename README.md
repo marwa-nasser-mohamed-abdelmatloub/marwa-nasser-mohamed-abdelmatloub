@@ -78,7 +78,9 @@ I love turning real-world problems into elegant full-stack solutions — check o
 
 - 📧 **Email:** marwa.nasser.mohamed.abdelmatloub@gmail.com  
 - 🔗 **LinkedIn:** [marwa-nasser-mohamed-abdelmatloub](https://linkedin.com/in/marwa-nasser-mohamed-abdelmatloub)  
-- 💻 **GitHub:** [marwa-nasser-mohamed-abdelmatloub](https://github.com/marwa-nasser-mohamed-abdelmatloub)  
+- 📘 **Facebook:** [marwa.nasser3333](https://www.facebook.com/marwa.nasser3333)  
+- 🐦 **Twitter (X):** [@MarwaNasser33](https://x.com/MarwaNasser33)
+- 📸 **Instagram:** [marwa.nasser33](https://www.instagram.com/marwa.nasser33/)  
 - 📍 **Location:** Minya, Egypt
 
 ---
