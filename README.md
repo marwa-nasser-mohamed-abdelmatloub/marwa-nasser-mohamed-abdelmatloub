@@ -77,15 +77,15 @@ I love turning real-world problems into elegant full-stack solutions — check o
 ### 📫 Get in Touch
 
 - 📧 **Email:** marwa.nasser.mohamed.abdelmatloub@gmail.com  
+- 📱 **Phone:** +20 110 613 0769  
 - 🔗 **LinkedIn:** [marwa-nasser-mohamed-abdelmatloub](https://linkedin.com/in/marwa-nasser-mohamed-abdelmatloub)  
-  
 - 📍 **Location:** Minya, Egypt
 
 ---
 
 ### 💬 Fun Facts
 
-- ☕ I drink tee like it's part of my codebase
+- ☕ I drink tea like it's part of my codebase
 - 🧩 Debugging UI challenges is my favorite brain workout
 - 🌍 Transitioned from archaeology to full-stack development — proving that passion knows no limits
 
